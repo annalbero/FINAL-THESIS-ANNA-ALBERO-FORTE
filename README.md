@@ -10,7 +10,7 @@ TFG-Repository/
 ├── README.md
 │
 ├── notebook/
-│   └── TFG_Anna_Albero_Forte.ipynb
+│   └── Final_Dual_Thesis_Anna_Albero_Forte.ipynb
 │
 ├── data/
 │   └── processed/
